@@ -4,6 +4,8 @@ OpenClaw modification safe guard.
 
 This repository provides a production-oriented skill for safe OpenClaw system changes.
 
+中文说明: [README-zh.md](README-zh.md)
+
 ## Skill Package
 
 - `openclaw-safe-collaboration/SKILL.md`
